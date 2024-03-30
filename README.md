@@ -15,7 +15,6 @@
 7) Prediction
 
 # Description :
-Certainly! Let's walk through the complete flow of the **Brain Tumor Classification using MRI** project:
 
 1. **Objective**:
    - The primary goal of this project is to **classify brain tumors** based on MRI (Magnetic Resonance Imaging) scans.
