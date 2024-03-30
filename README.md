@@ -1,5 +1,6 @@
 # Brain-Tumor-Classification-using-Deep-Learning
 
+# Process Flow :
 1) Dataset : 
    Taken from kaggle : https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri
    Consists of 3264 tumor MRI images data for training and testing.
@@ -59,7 +60,10 @@
      2. **Hyperparameter Tuning**: Suggests optimizing model hyperparameters.
      3. **Transfer Learning**: Explores using pre-trained models for feature extraction.
 
-8. **Conclusion**:
-   - The project concludes by summarizing the findings and potential areas for improvement.
-
-For more detailed implementation steps, you can refer to the [original notebook](https://www.kaggle.com/shivamagarwal/brain-tumor-classification-mri). 🧠🔍
+8. **Libraries Used**:
+   - **NumPy**: For numerical computations and array manipulation.
+   - **Pandas**: For data manipulation and analysis.
+   - **Matplotlib** and **Seaborn**: For visualization.
+   - **Scikit-learn**: For machine learning tools.
+   - **TensorFlow (with Keras)**: For deep learning model creation.
+   - **OpenCV**: For image preprocessing.
